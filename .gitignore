@@ -244,3 +244,10 @@ _Doc/*
 *.old
 /SecurityDriven.InfernoCore.sln
 *.bak
+
+# Cake files and folders
+/tools/*
+!/tools/packages.config
+
+# vscode settings
+/.vscode/*
